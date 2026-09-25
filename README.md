@@ -1,2 +1,2 @@
 # hello-world-lab
-## Sample website, deployed via **Netlify**
+Sample website, deployed via **Netlify**
